@@ -7,11 +7,12 @@ We are interested in facilitating an accessible, caring, and critical space for 
 I acknowledge that these terms are fluid, and consent may be given/withdrawn at any point leading up to and during the event with written or verbal communication. If, presently, I am comfortable with how TTZ has described their use for media representing myself and/or my work, I will indicate by signing below.
 
 VENDOR
+
 \______________
 <sup>Signature</sup>
 
 \______________
-<sup>Name (printed)></sup>
+<sup>Name (printed)</sup>
 
 \______________
 <sup>Date</sup>
