@@ -30,10 +30,10 @@ As a collaborator with TTZ, I recognize that if I fail to uphold the above guide
 By signing below, I indicate that I have received the TTZ Community Guidelines, and agree to embody them.
 
 \_______________  
-Signature
+<sup>Signature</sup>
 
 \_______________  
-Name (printed)
+<sup>Name (printed)</sup>
 
 \_______________  
-Date
+<sup>Date</sup>

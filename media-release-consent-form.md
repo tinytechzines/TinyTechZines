@@ -16,3 +16,14 @@ VENDOR
 
 \______________  
 <sup>Date</sup>
+
+TINY TECH ZINES
+
+\______________  
+<sup>Signature</sup>
+
+\______________  
+<sup>Name (printed)</sup>
+
+\______________
+<sup>Date></sup>
