@@ -26,4 +26,4 @@ TINY TECH ZINES
 <sup>Name (printed)</sup>
 
 \______________
-<sup>Date></sup>
+<sup>Date</sup>
