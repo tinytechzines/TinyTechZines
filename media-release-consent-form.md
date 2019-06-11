@@ -8,14 +8,11 @@ I acknowledge that these terms are fluid, and consent may be given/withdrawn at 
 
 VENDOR
 
-\______________
-
+\______________  
 <sup>Signature</sup>
 
-\______________
-
+\______________  
 <sup>Name (printed)</sup>
 
-\______________
-
+\______________  
 <sup>Date</sup>
