@@ -9,10 +9,13 @@ I acknowledge that these terms are fluid, and consent may be given/withdrawn at 
 VENDOR
 
 \______________
+
 <sup>Signature</sup>
 
 \______________
+
 <sup>Name (printed)</sup>
 
 \______________
+
 <sup>Date</sup>
