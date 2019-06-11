@@ -8,5 +8,4 @@ I acknowledge that these terms are fluid, and consent may be given/withdrawn at 
 
 | Vendor          | Tiny Tech Zines |
 | --------------- | --------------- |
-| \______________
-Signature | |
+| \______________ (Signature) | \______________ (Signature) |
