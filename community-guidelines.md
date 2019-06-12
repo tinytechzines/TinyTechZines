@@ -24,7 +24,7 @@ Under capitalism, our communities have been atomized, emphasizing individual per
 **Accountability through transparency**  
 Accountability is a constant process involving patience, vulnerability, and empathy. We acknowledge our shorcomings and encourage our collaborators to hold TTZ and each other accountable through critique and conversation. We do this for each other - tenderly, when possible - and always without invalidating experiences or emotions. To uphold this principle, TTZ will be making our organizational model - as it relates to our funding, thought processes, ways of working, administrative protocols, and internal documents (including this one) - publicly available online and at the request of any collaborator.
 
-## ACKNOWLEDGEMENT
+
 As a collaborator with TTZ, I recognize that if I fail to uphold the above guidelines by engaging in harmful behavior online or offline, TTZ can take any lawful action deemed appropriate against me, so as to maintain the physical, emotional, and mental health and safety of its participants, including being asked to leave the event.
 
 By signing below, I indicate that I have received the TTZ Community Guidelines, and agree to embody them.
