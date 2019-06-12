@@ -8,7 +8,7 @@ TTZ will be open to the public at 11am and will end at 7pm. I will be at NAVEL b
 I confirm my use of a full or half table, unless I indicated that I'll be bringing my own table/display. In either case, I commit to making my configuration respectful to the space and accessible to its participants.
 
 **Fee**  
-I will make a payment of $25 to TTZ. This payment will be made via PayPal and sent to us@tinytechzines.org . If this becomes a difficulty for me, I will check with Rachel, Tyler, and Tristan. I can expect this fee to be refunded if I become unable to table at TTZ.
+I will make a payment of $25 to TTZ. This payment will be sent via PayPal to paypal.me/tinytechzines. Alternatively, I can send with Venmo to @tinytechzines. If this fee becomes a difficulty for me, I will check in with Rachel, Tyler, and Tristan. I can expect this fee to be refunded if I become unable to table at TTZ.
 
 **Biographical bits**  
 I recognize that this is an intimate event that emphasizes connection and community. I will support this by sending TTZ a short 50-word bio that responds to any and/or all of the following: my background, my work, my interest in tabling at TTZ, my relationship with technology, what I need from it, what excites me about it, what implementation of technology would make me feel loved and cared for, etc. If I'm comfortable, I'll also send an image (of myself, a thing, a feelign) that represents these sentiments.
