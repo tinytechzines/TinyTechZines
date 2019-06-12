@@ -24,5 +24,5 @@ A signature below communicates that I've comprehended these terms and will send 
 \______________________________  
 <sup>Name (printed)</sup>
 
-\______________________________
+\______________________________  
 <sup>Date</sup>
